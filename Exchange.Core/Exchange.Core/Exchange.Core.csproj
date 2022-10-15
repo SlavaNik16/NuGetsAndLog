@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	<TargetFramework>netcoreapp3.1</TargetFramework>
+	<Nullable>enable</Nullable>
+	  <Authors>NikolaevXalle</Authors>
+	  <Version>0.0.0.3</Version>
+	  <Company>ПКГХ</Company>
+	  <Description>Ядро обмена</Description>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,10 @@
+X:\На всякий случай\C#\Exchange.Core\Exchange.Core\bin\Debug\netcoreapp3.1\Exchange.Core.deps.json
+X:\На всякий случай\C#\Exchange.Core\Exchange.Core\bin\Debug\netcoreapp3.1\Exchange.Core.dll
+X:\На всякий случай\C#\Exchange.Core\Exchange.Core\bin\Debug\netcoreapp3.1\Exchange.Core.pdb
+X:\На всякий случай\C#\Exchange.Core\Exchange.Core\obj\Debug\netcoreapp3.1\Exchange.Core.csproj.AssemblyReference.cache
+X:\На всякий случай\C#\Exchange.Core\Exchange.Core\obj\Debug\netcoreapp3.1\Exchange.Core.GeneratedMSBuildEditorConfig.editorconfig
+X:\На всякий случай\C#\Exchange.Core\Exchange.Core\obj\Debug\netcoreapp3.1\Exchange.Core.AssemblyInfoInputs.cache
+X:\На всякий случай\C#\Exchange.Core\Exchange.Core\obj\Debug\netcoreapp3.1\Exchange.Core.AssemblyInfo.cs
+X:\На всякий случай\C#\Exchange.Core\Exchange.Core\obj\Debug\netcoreapp3.1\Exchange.Core.csproj.CoreCompileInputs.cache
+X:\На всякий случай\C#\Exchange.Core\Exchange.Core\obj\Debug\netcoreapp3.1\Exchange.Core.dll
+X:\На всякий случай\C#\Exchange.Core\Exchange.Core\obj\Debug\netcoreapp3.1\Exchange.Core.pdb

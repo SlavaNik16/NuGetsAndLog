@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exchange.Console/1.0.0": {
+        "dependencies": {
+          "Exchange.Core": "0.0.0.3"
+        },
+        "runtime": {
+          "Exchange.Console.dll": {}
+        }
+      },
+      "Exchange.Core/0.0.0.3": {
+        "runtime": {
+          "lib/netcoreapp3.1/Exchange.Core.dll": {
+            "assemblyVersion": "0.0.0.3",
+            "fileVersion": "0.0.0.3"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exchange.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Exchange.Core/0.0.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tbfeO9OXAHPYBQ3nNB/MtjIV2pOnlS1N7hGkEXSXtbZN7BYpaxl3LYvWzx0s7TToD/hOiVGbK2c1MuEURrkeJw==",
+      "path": "exchange.core/0.0.0.3",
+      "hashPath": "exchange.core.0.0.0.3.nupkg.sha512"
+    }
+  }
+}

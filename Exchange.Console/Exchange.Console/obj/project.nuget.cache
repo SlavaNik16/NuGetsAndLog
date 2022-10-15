@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uT/7LQLrxH0PL54OMEbaE+DQZdRX1TrPtkgTIo51FM/4MGHkU++U3u/kwoY2QLnRUviT0M2cCI15nMpCtqFsBw==",
+  "success": true,
+  "projectFilePath": "X:\\На всякий случай\\C#\\Exchange.Console\\Exchange.Console\\Exchange.Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1519-20\\.nuget\\packages\\exchange.core\\0.0.0.3\\exchange.core.0.0.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

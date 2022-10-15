@@ -1,0 +1,16 @@
+X:\На всякий случай\C#\Exchange.Console\Exchange.Console\bin\Debug\netcoreapp3.1\Exchange.Console.exe
+X:\На всякий случай\C#\Exchange.Console\Exchange.Console\bin\Debug\netcoreapp3.1\Exchange.Console.deps.json
+X:\На всякий случай\C#\Exchange.Console\Exchange.Console\bin\Debug\netcoreapp3.1\Exchange.Console.runtimeconfig.json
+X:\На всякий случай\C#\Exchange.Console\Exchange.Console\bin\Debug\netcoreapp3.1\Exchange.Console.runtimeconfig.dev.json
+X:\На всякий случай\C#\Exchange.Console\Exchange.Console\bin\Debug\netcoreapp3.1\Exchange.Console.dll
+X:\На всякий случай\C#\Exchange.Console\Exchange.Console\bin\Debug\netcoreapp3.1\Exchange.Console.pdb
+X:\На всякий случай\C#\Exchange.Console\Exchange.Console\bin\Debug\netcoreapp3.1\Exchange.Core.dll
+X:\На всякий случай\C#\Exchange.Console\Exchange.Console\obj\Debug\netcoreapp3.1\Exchange.Console.csproj.AssemblyReference.cache
+X:\На всякий случай\C#\Exchange.Console\Exchange.Console\obj\Debug\netcoreapp3.1\Exchange.Console.GeneratedMSBuildEditorConfig.editorconfig
+X:\На всякий случай\C#\Exchange.Console\Exchange.Console\obj\Debug\netcoreapp3.1\Exchange.Console.AssemblyInfoInputs.cache
+X:\На всякий случай\C#\Exchange.Console\Exchange.Console\obj\Debug\netcoreapp3.1\Exchange.Console.AssemblyInfo.cs
+X:\На всякий случай\C#\Exchange.Console\Exchange.Console\obj\Debug\netcoreapp3.1\Exchange.Console.csproj.CoreCompileInputs.cache
+X:\На всякий случай\C#\Exchange.Console\Exchange.Console\obj\Debug\netcoreapp3.1\Exchange.Console.csproj.CopyComplete
+X:\На всякий случай\C#\Exchange.Console\Exchange.Console\obj\Debug\netcoreapp3.1\Exchange.Console.dll
+X:\На всякий случай\C#\Exchange.Console\Exchange.Console\obj\Debug\netcoreapp3.1\Exchange.Console.pdb
+X:\На всякий случай\C#\Exchange.Console\Exchange.Console\obj\Debug\netcoreapp3.1\Exchange.Console.genruntimeconfig.cache

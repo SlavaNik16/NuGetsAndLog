@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Exchange.Core</id>
+    <version>0.0.0.3</version>
+    <authors>NikolaevXalle</authors>
+    <description>Ядро обмена</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="X:\На всякий случай\C#\Exchange.Core\Exchange.Core\bin\Debug\netcoreapp3.1\Exchange.Core.dll" target="lib\netcoreapp3.1\Exchange.Core.dll" />
+  </files>
+</package>
